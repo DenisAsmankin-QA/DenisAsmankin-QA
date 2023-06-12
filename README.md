@@ -1,4 +1,4 @@
-####     Hello my friends :blush: Glad to see you on my page :star:
+#    Hello my friends :blush: Glad to see you on my page :star:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=32&duration=4999&pause=1000&color=E410049A&width=1003&lines=QA+Engineer+Denis+Asmankin+-+Quality+in+everything+and+everyone!!!)](https://git.io/typing-svg)
 
 <!--
