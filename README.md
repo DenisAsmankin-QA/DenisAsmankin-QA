@@ -1,4 +1,5 @@
-### Hi there 👋
+####     Hello my friends :blush: Glad to see you on my page :star:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=4999&pause=1000&color=7DD4F7&width=435&lines=QA+Engineer)](https://git.io/typing-svg)
 
 <!--
 **DenisAsmankin-QA/DenisAsmankin-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
