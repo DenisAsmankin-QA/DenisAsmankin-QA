@@ -1,5 +1,5 @@
 ##    Hello, my friends :blush: Glad to see you on my page :star:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=32&duration=4999&pause=1000&color=black&width=1003&lines=QA+Engineer+Denis+Asmankin+-+Quality+in+everything+and+everyone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=32&duration=4999&pause=500&color=008080&width=1003&lines=QA+Engineer+Denis+Asmankin+-+Quality+in+everything+and+everyone)](https://git.io/typing-svg)
 ## Tools for my work
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
