@@ -1,5 +1,6 @@
 ##    :wave:   Hello, my friends 
 ##    :star:   Glad to see you on my page
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=32&duration=4999&pause=500&color=008080&width=1010&lines=Quality+in+Everything+and+for+Everyone+-+QA+Engineer+Denis+Asmankin)](https://git.io/typing-svg)
 ##    :dart:   Tools
 ![Header](https://img.shields.io/badge/GitLab-090909?style=for-the-badge&logo=gitlab&logoColor=#ffffff)
