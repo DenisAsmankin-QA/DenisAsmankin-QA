@@ -24,4 +24,4 @@
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pytest](https://img.shields.io/badge/pytest-090909?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![Selenium](https://img.shields.io/badge/-selenium-090909?style=for-the-badge&logo=selenium&logoColor=43B02A)
-![Playwright](https://img.shields.io/badge/-playwright-090909?style=for-the-badge&logo=playwright&logoColor=white)
+<!--![Playwright](https://img.shields.io/badge/-playwright-090909?style=for-the-badge&logo=playwright&logoColor=white)-->
